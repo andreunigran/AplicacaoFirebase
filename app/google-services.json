@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875079738099",
+    "firebase_url": "https://aula-android-firebird.firebaseio.com",
+    "project_id": "aula-android-firebird",
+    "storage_bucket": "aula-android-firebird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875079738099:android:0eceb8bb2a2d74a5528d86",
+        "android_client_info": {
+          "package_name": "br.unigran.aplicaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875079738099-vtph830gkmvso9g3ma9l4b441h12n2nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unigran.aplicaofirebase",
+            "certificate_hash": "5a62a90419c635161fd9a4cdbb7e2022111b2d94"
+          }
+        },
+        {
+          "client_id": "875079738099-7fb31ofdorvht0cb0v2fk9l3oq3d24qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrP6AVN6dHF89m_iQLZBf5As9RbxZptNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875079738099-7fb31ofdorvht0cb0v2fk9l3oq3d24qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
